@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Generated video files
+*.mp4
+*.avi
+*.mov
+
+# Private/raw datasets
+data/raw/
+data/private/
